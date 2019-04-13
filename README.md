@@ -39,7 +39,7 @@ data/
 classes = <your classes>
 ```   
 
-### 2.3 Enter the number of training and validation samples accoridng to your dataset
+### 2.3 Enter the number of training and validation samples according to your dataset
 ```
 number_of_images_training = <your number of training images>
 number_of_images_validation = <your number of validation images>
